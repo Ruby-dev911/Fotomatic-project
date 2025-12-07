@@ -101,7 +101,7 @@ header .icon {
 }
 
 .banner {
-  background-image: url("file:///Users/roxannemartinez/Downloads/fotomatic_broken/resources/images/banner-landingpage.jpg");
+  background-image: url("banner-landingpage.jpg");
   background-position: relative;
   background-repeat: no-repeat;
   background-size: cover;
