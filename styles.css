@@ -101,7 +101,7 @@ header .icon {
 }
 
 .banner {
-  background-image: url("/banner-landingpage.jpg");
+  background-image: url("https://github.com/Ruby-dev911/Fotomatic-project/blob/main/banner-landingpage.jpg");
   background-position: relative;
   background-repeat: no-repeat;
   background-size: cover;
